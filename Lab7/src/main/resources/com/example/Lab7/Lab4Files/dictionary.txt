@@ -1,0 +1,12 @@
+Name | Имя
+dog | собака
+food | еда
+words | слова
+Several words | несколько слов
+Some names | s
+Cats | кошки
+Several cats | несколько котов
+eat meat | есть мясо
+living outside | жить на улице
+eat | кушать
+turn out | завершиться
